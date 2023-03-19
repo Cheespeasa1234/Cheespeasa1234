@@ -9,6 +9,7 @@
 </p>
 
 # 🔭 I’m currently working on
+  -  [A scheduling program](https://github.com/Cheespeasa1234/LeviSchedule)
   -  [My first OpenGL project](https://github.com/Cheespeasa1234/OpenGL)
   -  [My personal homepage](https://Cheespeasa1234.github.io)
   -  [My python DOM library](https://github.com/Cheespeasa1234/py-dom-creator)
