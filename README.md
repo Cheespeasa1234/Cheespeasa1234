@@ -1,42 +1,42 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Open+Sans&duration=1500&pause=1000&color=ffffff&vCenter=true&width=435&lines=%F0%9F%91%8B+Hello;%F0%9F%98%84+I+am+Nate+Levison+;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Full+Stack+Programmer;%F0%9F%97%9D+1.5y+Java+and+W2+experience;%F0%9F%A5%A3+Mac+and+Cheese+Enthusiast)](https://git.io/typing-svg)
 
-![Reddit](https://img.shields.io/reddit/user-karma/combined/Cheespeasa1234?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/CiY3?style=social)
-<br>
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Cheespeasa1234)
 
-# 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Editor-vscode-informational?style=flat&logo=vscode&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+## 🔧 Technologies & Tools
+Frontend:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![](https://img.shields.io/badge/-JavaScript-c2bc00?logo=JavaScript)&nbsp;
+![](https://img.shields.io/badge/-HTML-ff995e?logo=HTML5)&nbsp;
+![](https://img.shields.io/badge/-CSS3-5ea1ff?logo=CSS3&logoColor=0082c3)&nbsp;
+![](https://img.shields.io/badge/-Svelte-df793e?logo=Svelte)&nbsp;
+<br>
+Backend / Software:&nbsp;
+![](https://img.shields.io/badge/-Java-ff7569?logo=OpenJDK)&nbsp;
+![](https://img.shields.io/badge/-Python-2db345?logo=Python)&nbsp;
+![](https://img.shields.io/badge/-node.js-66d97a?logo=node.js)&nbsp;
+![](https://img.shields.io/badge/-Tensorflow-ff995e?logo=tensorflow)&nbsp;
+<br>
+Environment:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![](https://img.shields.io/badge/-VSCode-5ea1ff?logo=visual-studio-code&logoColor=blue)&nbsp;
+![](https://img.shields.io/badge/-MSVS-a341d1?logo=visual-studio&logoColor=purple)&nbsp;
+![](https://img.shields.io/badge/-GitHub-gray?logo=github)&nbsp;
+![](https://img.shields.io/badge/-replit-ff995e?logo=replit)&nbsp;
 
-# 🔭 I’m currently working on
-  -  [A scheduling program](https://github.com/Cheespeasa1234/LeviSchedule) 
+## 🔭 I’m currently working on
+  -  [A scheduling program](https://github.com/Cheespeasa1234/LeviSchedule)  &nbsp;&nbsp;&nbsp;&nbsp;
 ![GitHub last commit](https://img.shields.io/github/last-commit/Cheespeasa1234/LeviSchedule)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Cheespeasa1234/LeviSchedule)
 
-  -  [My first OpenGL project](https://github.com/Cheespeasa1234/OpenGL) 
+  -  [My first OpenGL project](https://github.com/Cheespeasa1234/OpenGL) &nbsp;
 ![GitHub last commit](https://img.shields.io/github/last-commit/Cheespeasa1234/OpenGL)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Cheespeasa1234/OpenGL)
 
-  -  [My personal homepage](https://Cheespeasa1234.github.io) 
+  -  [My personal homepage](https://Cheespeasa1234.github.io) &nbsp;&nbsp;
 ![GitHub last commit](https://img.shields.io/github/last-commit/Cheespeasa1234/Cheespeasa1234.github.io)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Cheespeasa1234/Cheespeasa1234.github.io)
  
-  -  [My python DOM library](https://github.com/Cheespeasa1234/py-dom-creator) 
+  -  [My python DOM library](https://github.com/Cheespeasa1234/py-dom-creator) &nbsp;&nbsp;
 ![GitHub last commit](https://img.shields.io/github/last-commit/Cheespeasa1234/CaMuL)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Cheespeasa1234/CaMuL)
-
-# 🌱 Technologies I am learning
-  - OpenGL / C++
-  - Tensorflow
-# 🌳 Technologies I use
-  - Webdev fullstack
-    - HTML, CSS, JS (1.5y)
-    - Node.js (1y)
-  - Java (1.6y)
-  - Python / pip (1.5y)  
 
 
 # 📫 How to reach me:
