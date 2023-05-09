@@ -24,9 +24,9 @@ Environment:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
 ![GitHub last commit](https://img.shields.io/github/last-commit/Cheespeasa1234/LeviSchedule)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Cheespeasa1234/LeviSchedule)
 
-  -  [My first OpenGL project](https://github.com/Cheespeasa1234/OpenGL) &nbsp;
-![GitHub last commit](https://img.shields.io/github/last-commit/Cheespeasa1234/OpenGL)
-![GitHub repo size](https://img.shields.io/github/repo-size/Cheespeasa1234/OpenGL)
+  -  [My boids simulation](https://github.com/Cheespeasa1234/LeviAntSim) &nbsp;
+![GitHub last commit](https://img.shields.io/github/last-commit/Cheespeasa1234/LeviAntSim)
+![GitHub repo size](https://img.shields.io/github/repo-size/Cheespeasa1234/LeviAntSim)
 
   -  [My personal homepage](https://Cheespeasa1234.github.io) &nbsp;&nbsp;
 ![GitHub last commit](https://img.shields.io/github/last-commit/Cheespeasa1234/Cheespeasa1234.github.io)
