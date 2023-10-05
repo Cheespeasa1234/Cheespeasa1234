@@ -12,7 +12,7 @@ Backend / Software:&nbsp;
 ![](https://img.shields.io/badge/-Java-ff7569?logo=OpenJDK)&nbsp;
 ![](https://img.shields.io/badge/-Python-2db345?logo=Python)&nbsp;
 ![](https://img.shields.io/badge/-node.js-66d97a?logo=node.js)&nbsp;
-![](https://img.shields.io/badge/-Rust-ff995e?logo=rust)&nbsp;
+![](https://img.shields.io/badge/-nginx-3a8855?logo=nginx)&nbsp;
 <br>
 Environment:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![](https://img.shields.io/badge/-VSCode-5ea1ff?logo=visual-studio-code&logoColor=blue)&nbsp;
