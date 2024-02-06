@@ -2,32 +2,32 @@
 ### Visit [natelevison.com](https://natelevison.com)!!
 
 ## 🔧 Technologies & Tools
-Frontend:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Frontend:
 ![](https://img.shields.io/badge/-JavaScript-c2bc00?logo=JavaScript)&nbsp;
 ![](https://img.shields.io/badge/-HTML-ff995e?logo=HTML5)&nbsp;
 ![](https://img.shields.io/badge/-CSS3-5ea1ff?logo=CSS3&logoColor=0082c3)&nbsp;
 ![](https://img.shields.io/badge/-Svelte-df793e?logo=Svelte)&nbsp;
-<br>
-Backend / Software:&nbsp;
+
+Backend:&nbsp;
 ![](https://img.shields.io/badge/-Java-ff7569?logo=OpenJDK)&nbsp;
 ![](https://img.shields.io/badge/-Python-2db345?logo=Python)&nbsp;
+![](https://img.shields.io/badge/-TypeScript-66cddd?logo=typescript)&nbsp;
 ![](https://img.shields.io/badge/-node.js-66d97a?logo=node.js)&nbsp;
-![](https://img.shields.io/badge/-nginx-3a8855?logo=nginx)&nbsp;
-<br>
-Environment:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![](https://img.shields.io/badge/-VSCode-5ea1ff?logo=visual-studio-code&logoColor=blue)&nbsp;
-![](https://img.shields.io/badge/-MSVS-a341d1?logo=visual-studio&logoColor=purple)&nbsp;
-![](https://img.shields.io/badge/-GitHub-gray?logo=github)&nbsp;
-![](https://img.shields.io/badge/-replit-ff995e?logo=replit)&nbsp;
+
+Software:
+![](https://img.shields.io/badge/-VSCode-5ea1ff?logo=visual-studio-code)&nbsp;
+![](https://img.shields.io/badge/-GitHub-gray?logo=GitHub)&nbsp;
+![](https://img.shields.io/badge/-Git-orange?logo=git)&nbsp;
+![](https://img.shields.io/badge/-nginx-3a8855?logo=nginx)&nbsp;  
 
 ## 🔭 I’m currently working on
   -  [A scheduling program](https://github.com/Cheespeasa1234/LeviSchedule)  &nbsp;&nbsp;&nbsp;&nbsp;
 ![GitHub last commit](https://img.shields.io/github/last-commit/Cheespeasa1234/LeviSchedule)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Cheespeasa1234/LeviSchedule)
 
-  -  [My boids simulation](https://github.com/Cheespeasa1234/LeviAntSim) &nbsp;
-![GitHub last commit](https://img.shields.io/github/last-commit/Cheespeasa1234/LeviAntSim)
-![GitHub repo size](https://img.shields.io/github/repo-size/Cheespeasa1234/LeviAntSim)
+  -  [A Minecraft Statistics Viewer](https://github.com/Cheespeasa1234/StatsViewer) &nbsp;
+![GitHub last commit](https://img.shields.io/github/last-commit/Cheespeasa1234/StatsViewer)
+![GitHub repo size](https://img.shields.io/github/repo-size/Cheespeasa1234/StatsViewer)
 
   -  [My personal homepage](https://natelevison.com) &nbsp;&nbsp;
 ![GitHub last commit](https://img.shields.io/github/last-commit/Cheespeasa1234/natelevison.com)
