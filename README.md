@@ -36,5 +36,3 @@ Software:
 
 # 📫 How to reach me:
   1. Email @ <natelevison@gmail.com>
-  2. Read constroversial tweets [@CiY310](https://www.twitter.com/CiY310) 
-  3. Watch me struggle with css [on codepen](https://codepen.io/ciy310)
