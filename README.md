@@ -21,13 +21,9 @@ Software:
 ![](https://img.shields.io/badge/-nginx-3a8855?logo=nginx)&nbsp;  
 
 ## 🔭 I’m currently working on
-  -  [A scheduling program](https://github.com/Cheespeasa1234/LeviSchedule)  &nbsp;&nbsp;&nbsp;&nbsp;
-![GitHub last commit](https://img.shields.io/github/last-commit/Cheespeasa1234/LeviSchedule)
-![GitHub repo size](https://img.shields.io/github/repo-size/Cheespeasa1234/LeviSchedule)
-
-  -  [A Minecraft Statistics Viewer](https://github.com/Cheespeasa1234/StatsViewer) &nbsp;
-![GitHub last commit](https://img.shields.io/github/last-commit/Cheespeasa1234/StatsViewer)
-![GitHub repo size](https://img.shields.io/github/repo-size/Cheespeasa1234/StatsViewer)
+  -  [Cheatsheets for HCS Students](https://github.com/Cheespeasa1234/cheatsheets) &nbsp;
+![GitHub last commit](https://img.shields.io/github/last-commit/Cheespeasa1234/cheatsheets)
+![GitHub repo size](https://img.shields.io/github/repo-size/Cheespeasa1234/cheatsheets)
 
   -  [My personal homepage](https://natelevison.com) &nbsp;&nbsp;
 ![GitHub last commit](https://img.shields.io/github/last-commit/Cheespeasa1234/natelevison.com)
