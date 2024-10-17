@@ -31,4 +31,4 @@ Software:
 
 
 # 📫 How to reach me:
-  1. Email @ <natelevison@gmail.com>
+  1. Email @ <nate@natelevison.com>
