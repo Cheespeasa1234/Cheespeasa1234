@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Open+Sans&duration=1500&pause=1000&color=ffffff&vCenter=true&width=435&lines=%F0%9F%91%8B+Hello;%F0%9F%98%84+I+am+Nate+Levison+;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Full+Stack+Programmer;%F0%9F%97%9D+2y+Java+and+W2+experience;%F0%9F%A5%A3+Mac+and+Cheese+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Open+Sans&duration=1500&pause=1000&color=ffffff&vCenter=true&width=435&lines=%F0%9F%91%8B+Hello;%F0%9F%98%84+I+am+Nate+Levison+;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Full+Stack+Programmer;%F0%9F%97%9D+3y+Java+and+3y+webdev+experience;%F0%9F%A5%A3+Mac+and+Cheese+Enthusiast)](https://git.io/typing-svg)
 ### Visit [natelevison.com](https://natelevison.com)!!
 
 ## 🔧 Technologies & Tools
@@ -21,13 +21,17 @@ Software:
 ![](https://img.shields.io/badge/-nginx-3a8855?logo=nginx)&nbsp;  
 
 ## 🔭 I’m currently working on
-  -  [Cheatsheets for HCS Students](https://github.com/Cheespeasa1234/cheatsheets) &nbsp;
-![GitHub last commit](https://img.shields.io/github/last-commit/Cheespeasa1234/cheatsheets)
-![GitHub repo size](https://img.shields.io/github/repo-size/Cheespeasa1234/cheatsheets)
+  -  [HCS Student Testing Software](https://github.com/Cheespeasa1234/uhl_tests) &nbsp;
+![GitHub last commit](https://img.shields.io/github/last-commit/Cheespeasa1234/uhl_tests)
+![GitHub repo size](https://img.shields.io/github/repo-size/Cheespeasa1234/uhl_tests)
 
-  -  [My personal homepage](https://natelevison.com) &nbsp;&nbsp;
+  -  [My personal homepage](https://github.com/Cheespeasa1234/natelevison.com) &nbsp;&nbsp;
 ![GitHub last commit](https://img.shields.io/github/last-commit/Cheespeasa1234/natelevison.com)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Cheespeasa1234/natelevison.com)
+
+  -  [Robotics Scouting App](https://github.com/PioneersTeam1676/scouting) &nbsp;&nbsp;
+![GitHub last commit](https://img.shields.io/github/last-commit/PioneersTeam1676/scouting)
+![GitHub repo size](https://img.shields.io/github/repo-size/PioneersTeam1676/scouting)
 
 
 # 📫 How to reach me:
