@@ -1,5 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Open+Sans&duration=1500&pause=1000&color=ffffff&vCenter=true&width=435&lines=%F0%9F%91%8B+Hello;%F0%9F%98%84+I+am+Nate+Levison+;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Full+Stack+Programmer;%F0%9F%97%9D+3y+Java+and+3y+webdev+experience;%F0%9F%A5%A3+Mac+and+Cheese+Enthusiast)](https://git.io/typing-svg)
-### Visit [natelevison.com](https://natelevison.com)!!
+# Hi, I'm Nate Levison
+Full Stack Programmer - Hobbyist<br>
+Visit my website at [natelevison.com](https://natelevison.com)
 
 ## 🔧 Technologies & Tools
 Frontend:
