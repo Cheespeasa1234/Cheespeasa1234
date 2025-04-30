@@ -22,18 +22,13 @@ Software:
 ![](https://img.shields.io/badge/-nginx-3a8855?logo=nginx)&nbsp;  
 
 ## 🔭 I’m currently working on
-  -  [HCS Student Testing Software](https://github.com/Cheespeasa1234/uhl_tests) &nbsp;
-![GitHub last commit](https://img.shields.io/github/last-commit/Cheespeasa1234/uhl_tests)
-![GitHub repo size](https://img.shields.io/github/repo-size/Cheespeasa1234/uhl_tests)
+### [uhl_tests](https://github.com/Cheespeasa1234/uhl_tests) &nbsp;
+![GitHub last commit](https://img.shields.io/github/last-commit/Cheespeasa1234/uhl_tests) ![GitHub repo size](https://img.shields.io/github/repo-size/Cheespeasa1234/uhl_tests)
+<br>A program to administer Java tests to students, and securely grade them.
 
-  -  [My personal homepage](https://github.com/Cheespeasa1234/natelevison.com) &nbsp;&nbsp;
-![GitHub last commit](https://img.shields.io/github/last-commit/Cheespeasa1234/natelevison.com)
-![GitHub repo size](https://img.shields.io/github/repo-size/Cheespeasa1234/natelevison.com)
-
-  -  [Robotics Scouting App](https://github.com/PioneersTeam1676/scouting) &nbsp;&nbsp;
-![GitHub last commit](https://img.shields.io/github/last-commit/PioneersTeam1676/scouting)
-![GitHub repo size](https://img.shields.io/github/repo-size/PioneersTeam1676/scouting)
-
+### [natelevison.com](https://github.com/Cheespeasa1234/natelevison.com) &nbsp;&nbsp;
+![GitHub last commit](https://img.shields.io/github/last-commit/Cheespeasa1234/natelevison.com) ![GitHub repo size](https://img.shields.io/github/repo-size/Cheespeasa1234/natelevison.com)
+<br>My personal website, since 2022. My portfolio, blog, and homepage!
 
 # 📫 How to reach me:
   1. Email @ <nate@natelevison.com>
